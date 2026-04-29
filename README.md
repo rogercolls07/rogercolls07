@@ -13,8 +13,10 @@ Git
 ## Projectes
 Travel Dashboard:
 https://github.com/rogercolls07/traveldashboard
+
 Travel Dashboard és una aplicació web interactiva en JavaScript Vanilla que proporciona als viatgers informació essencial en temps real —com ara dades meteorològiques, conversió de divises i mapes— per preparar la visita a cinc grans ciutats.
 
 Pràctica JavaCar:
 https://github.com/rogercolls07/practica-javacar-rogercolls07
+
 JavaCar és una aplicació de lloguer de vehicles desenvolupada en Java per practicar la Programació Orientada a Objectes i la sostenibilitat, mitjançant la implementació d'una arquitectura de classes i la herència.
