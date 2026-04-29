@@ -5,7 +5,8 @@ Sóc estudiant del cicle formatiu de grau superior de Desenvolupament d'Aplicaci
 
 ## Informació de contacte
 roger.colls@gmail.com
-[Linkedin]([url](https://www.linkedin.com/in/roger-colls-33b5143a9/))
+
+[Linkedin]([https://www.linkedin.com/in/roger-colls-33b5143a9/])
 
 ## Tecnologies
 HTML
