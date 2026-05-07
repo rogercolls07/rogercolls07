@@ -10,9 +10,13 @@ roger.colls@gmail.com
 
 ## Tecnologies
 HTML
+
 CSS
+
 JavaScript
+
 Java
+
 Git
 
 ## Projectes
