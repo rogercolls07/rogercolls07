@@ -4,9 +4,9 @@
 Sóc estudiant del cicle formatiu de grau superior de Desenvolupament d'Aplicacions Web (DAW) amb una base tècnica sòlida en HTML, CSS i JavaScript per al desenvolupament Front-end. Utilitzo Git per al control de versions i destaco per la meva capacitat de treball en equip en els projectes acadèmics. Busco activament pràctiques (FCT) per posar en pràctica aquests conexiements en l’entorn laboral.
 
 ## Informació de contacte
-roger.colls@gmail.com
+Mail: roger.colls@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/roger-colls-33b5143a9/)
+Linkedin: [Link](https://www.linkedin.com/in/roger-colls-33b5143a9/)
 
 ## Tecnologies
 HTML
